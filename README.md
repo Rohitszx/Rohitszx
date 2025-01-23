@@ -1,7 +1,7 @@
-# README: About [Your Name]
+# README: About [Rohit Kumar]
 
 ## 👩‍💻 **Professional Summary**
-I am a passionate **Backend Developer** with over 2 years of experience specializing in **Node.js**, **TypeScript**, and **Moleculer.js**. I excel in designing **scalable microservices**, building **real-time systems**, and optimizing **database performance**. My expertise spans **system design**, deployment, and creating solutions that enhance system performance and user satisfaction. I thrive on solving complex backend challenges, adhering to industry-best practices, and delivering robust, maintainable code.  
+I am a passionate **Backend Developer** with over 3 years of experience specializing in **Node.js**, **TypeScript**, and **Moleculer.js**. I excel in designing **scalable microservices**, building **real-time systems**, and optimizing **database performance**. My expertise spans **system design**, deployment, and creating solutions that enhance system performance and user satisfaction. I thrive on solving complex backend challenges, adhering to industry-best practices, and delivering robust, maintainable code.  
 
 ### **Key Strengths**:
 - Expertise in **JavaScript**, **TypeScript**, and modern frameworks.
